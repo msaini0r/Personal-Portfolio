@@ -4,7 +4,7 @@
 
 THis is a beautiful and minimilistic personal portfolio website programmed with help of Html & Css and Javascript.
 
-You can check the site by clicking here - <a href="https://msaini0r.github.io/Bankist-Website/">Link</a>
+You can check the site by clicking here - <a href="https://msaini0r.github.io/Personal-Portfolio/">Link</a>
 
 ## Preview ✅
 <hr>
